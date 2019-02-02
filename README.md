@@ -1,4 +1,8 @@
-MEGA Sync Client
+![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
+
+# Rogue Designs
+
+## MEGA Sync Client
 ================
 
 Easy automated syncing between your computers and your MEGA cloud drive.
